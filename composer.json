@@ -1,5 +1,5 @@
 {
-    "name": "om/socialite",
+    "name": "onemena/socialite",
     "description": "第三方登录基于overtrue/socialite改版",
     "keywords": ["OAuth", "social", "login", "Weibo", "WeChat", "QQ"],
     "autoload": {
